@@ -1,0 +1,70 @@
+.team_heading{
+    margin-top:1.4em;
+    color:black;
+    text-align:center;
+
+}
+.representatives_heading{
+    text-align:center;
+    font-family: 'Roboto', sans-serif;
+    margin-top:1.4em;
+    margin-bottom:1em;
+    font-size:2em;
+}
+.team_container{
+    background-color:white;
+    padding-bottom:2em;
+    position:relative;
+}
+.profile_pic{
+    height:12em;
+    width:12em;
+    border-radius:50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.profile_pic:hover{
+    border:6px solid rgb(148, 150, 153, 0.3);
+}
+.profile_detail{
+    text-align:center;
+    margin-top:1em;
+}
+.profile_name{
+    text-align:center;
+    font-family: 'Roboto Slab', serif;
+    font-size: 1.2em;
+    color:grey;
+}
+.profile_info{
+    text-align:center;
+    font-family:'Roboto',serif;
+    font-size:1em;
+    color:grey;
+}
+.profile_phone{
+    margin-top:0.5em;
+}
+.profile_email{
+    margin-top:0.5em;
+}
+i{
+    font-size:1.5em;
+}
+.icon-link{
+    text-align:center;
+}
+.fa {
+    position:relative;
+    padding-left: 0.7em;
+    padding-right:0.7em;
+    font-size: 30px;
+    width: 20px;
+    text-align: center;
+    text-decoration: none;
+}
+.contact-icons{
+    margin-right:1.4em;
+}
+

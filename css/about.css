@@ -1,0 +1,18 @@
+.about-container{
+    background-color:white;
+}
+
+#about-text{
+    font-family:'Roboto', sans-serif;
+    margin-bottom:1.54em;
+    line-height: 1.8;
+    text-align:justify;
+    font-size:1.5em;
+}
+
+.about_heading{
+    margin-top:1.4em;
+    color:black;
+    text-align:center;
+
+}

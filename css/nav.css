@@ -1,0 +1,38 @@
+.navbar{
+    background-color:transparent;
+    background:transparent;
+    border-color:transparent;
+}
+
+.navbutton{
+    height:100%;
+    vertical-align:center;
+    text-align:center;
+}
+.navbar li{
+    color:transparent;
+    padding:25px;
+    vertical-align:center;
+    font-size:1.3em;
+    font-family: 'Roboto Slab', serif;
+}
+
+.navbar li a:link{
+    color:black;
+}
+.navbar li a:visited{
+    color:black;
+}
+.navbar li a:hover{
+    color:black !important;
+}
+.navbar li a:active{
+    color:black;
+}
+
+.navbar-logo-img{
+    width:8em;
+    height:8em;
+    border-radius:50%;
+}
+
